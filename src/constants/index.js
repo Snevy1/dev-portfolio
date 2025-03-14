@@ -104,8 +104,8 @@ export const myProjects = [
         desc: 'A social media chatting application, used by medical students: • Dynamic and interactive sections built with React. • Fast messaging and notifications using Socket.io • State management using Zustand • Minimalistic and visually appealing design using Tailwind CSS. • Easy navigation and responsive layout for an enhanced user experience. • Deployed with Vercel for professional presentation.',
         subdesc:
             'With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.',
-        githubUrl: "https://github.com/Snevy1/hospital-management-system",
-        href: "https://telewing.netlify.app",
+        githubUrl: "https://github.com/Snevy1/hooliChat",
+        href: "https://hoolichat.onrender.com/",
         texture: '/textures/project/project2.mp4',
         logo: '/assets/project-logo2.png',
         logoStyle: {
@@ -142,7 +142,7 @@ export const myProjects = [
         desc: 'This is a fullstack inventory management system built with nextjs15, prisma, mongodb and shadcn.It helps management of inventory as seemless as possible',
         subdesc:
             'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
-        githubUrl: "https://github.com/Snevy1/hospital-management-system",
+        githubUrl: "https://github.com/Snevy1/Inventory-management-system",
         href: 'https://inventory-tau-two.vercel.app/',
         texture: '/textures/project/project3.mp4',
         logo: '/assets/project-logo3.png',
@@ -216,7 +216,7 @@ export const myProjects = [
         ],
     },
     {
-        title: 'Hoolichat - A social Media application used by Medical students',
+        title: 'Zentry - A zentry gaming website clone',
         desc: 'A clone of the Zentry website created to demonstrate proficiency in frontend development.',
         subdesc:
             'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
